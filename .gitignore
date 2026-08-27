@@ -1,0 +1,32 @@
+# CMake build directory
+/build/
+/build_*/
+/bin/
+/out/
+
+# Visual Studio temporary files & caches
+.vs/
+*.user
+*.suo
+*.userosv
+*.sln.docstates
+*.VC.db
+*.opendb
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled objects & binaries
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
